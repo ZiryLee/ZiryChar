@@ -11,10 +11,10 @@
 
 如果没有安装JAVA环境则请下载[jre8_86.zip](http://pan.baidu.com/s/1eSLs1Ku)，解压安装jar8_86.exe，
 
-按指示安装完成后，
-服务端端双击运行：[ZiryCharServer.jar](https://raw.githubusercontent.com/ZiryLee/ZiryChar/master/jar/ZiryCharServer.jar)
-客户端双击运行：[ZiryCharClient.jar](https://raw.githubusercontent.com/ZiryLee/ZiryChar/master/jar/ZiryCharClient.jar)
-
+按指示安装完成后，  
+服务端端双击运行：[ZiryCharServer.jar](https://raw.githubusercontent.com/ZiryLee/ZiryChar/master/jar/ZiryCharServer.jar)  
+客户端双击运行：[ZiryCharClient.jar](https://raw.githubusercontent.com/ZiryLee/ZiryChar/master/jar/ZiryCharClient.jar)  
+  
 服务端：  
 ![输入图片说明](https://github.com/ZiryLee/ZiryChar/blob/master/img/server.png "在这里输入图片标题")
 
