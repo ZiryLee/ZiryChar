@@ -15,11 +15,11 @@
 服务端端双击运行：[ZiryCharServer.jar](https://raw.githubusercontent.com/ZiryLee/ZiryChar/master/jar/ZiryCharServer.jar)
 客户端双击运行：[ZiryCharClient.jar](https://raw.githubusercontent.com/ZiryLee/ZiryChar/master/jar/ZiryCharClient.jar)
 
-服务端：
+服务端：  
 ![输入图片说明](https://github.com/ZiryLee/ZiryChar/blob/master/img/server.png "在这里输入图片标题")
 
-客户端1：
+客户端1：  
 ![输入图片说明](https://github.com/ZiryLee/ZiryChar/blob/master/img/char1.png "在这里输入图片标题")
 
-客户端2：
+客户端2：  
 ![输入图片说明](https://github.com/ZiryLee/ZiryChar/blob/master/img/char2.png "在这里输入图片标题")
